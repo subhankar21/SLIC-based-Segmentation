@@ -11,7 +11,7 @@
 <br>
 
 ### Description
-Implementation of SLIC proposed in (IEEE Transactions on Pattern Analysis and Machine Intelligence) :<br>
+Implementation of SLIC proposed in (IEEE Transactions on Pattern Analysis and Machine Intelligence) for segmenting and detecting the pattern:<br>
 SLIC Superpixels Compared to State-of-the-Art Superpixel Methods<br>
 R. Achanta, A. Shaji, K. Smith, A. Lucchi, P. Fua and S. Süsstrunk<br>
 IEEE Transactions on Pattern Analysis and Machine Intelligence,
